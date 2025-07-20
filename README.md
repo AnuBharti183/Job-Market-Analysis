@@ -27,7 +27,7 @@ The primary objective of this project was to analyze current job market trends b
 * Included KPIs, bar charts, and trend lines for clarity
 
 ### Insights & Findings
-* Most AI jobs are posted in the US, followed by the UK and Germany.
+* Most jobs are posted in the US, followed by the UK and Germany.
 * Senior roles earn up to 2.5x more than entry-level positions.
 * Python, SQL, TensorFlow, and AWS are the most requested skills.
 * Over 60% of jobs are fully remote or hybrid.
